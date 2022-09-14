@@ -7,19 +7,9 @@
 </p>
 
 ### HI THERE!!! 👋
-
 <p align="justify">
-Hi, I am Azrin Dipu from Dhaka, Bangladesh. Currently, I am working as an Associate Software Engineer at <a href="http://www.dsinnovators.com/">Dynamic Solution Innovators Ltd</a> for more than 2.5 years. Bassically I hepl my team as a java back-end and DevOps developper.
+Hi, I am Azrin. Currently, I am doing my MSc in computer science at <a href="https://uit.no/startsida">UiT The Arctic University of Norway.</a> I have 4 yaers of experience in software development at <a href="http://www.dsinnovators.com/">Dynamic Solution Innovators Ltd</a>. Looking to contribute to open-source projects related to software development and open to discussions about software engineering.
 </p>
-
-
-
-- 🔭 Currently working on a JAVA EE Application
-- 🌱 Currently learning Jenkins and Ansible
-- 👯 Looking to contribute to open-source projects related to software development
-- 💬 Open to discussions about software engineering
-
-  
 
 ## **CODING STATS -**
 
