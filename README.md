@@ -20,17 +20,6 @@ Hi, I am Azrin. Currently, I am doing my MSc in computer science at <a href="htt
 </p>
 
 
-## **FEATURED PROJECTS -**
-
-<p align="center">
-    <a href="https://github.com/azrindipu/food">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azrindipu&repo=food&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
-    </a>
-    <a href="https://github.com/azrindipu/Auth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=azrindipu&repo=Auth&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&hide_border=true"/>
-    </a>
-</p>
-
 
 
 ## **REACH ME -**
